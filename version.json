@@ -1,0 +1,9 @@
+{
+  "build": 1,
+  "engine": "4.7.2",
+  "size": 8705036,
+  "sha256": "cad005535bf2511056f1bf5fe1ebb376c0a1b40a59bc21f742bdcd9e31dedf8c",
+  "notes": "Test build for the updater",
+  "commit": "637ad37",
+  "date": "2026-10-29 12:57"
+}
