@@ -1,9 +1,9 @@
 {
-  "build": 4,
+  "build": 5,
   "engine": "4.7.2",
-  "size": 8752264,
-  "sha256": "1d5846130a2acac4f41f7a5a4dfc132fded9ed0a3784b6f9d12f74bf20f318f5",
-  "notes": "Quit buttons, AI takes over players who leave, version check when joining, gentler Swag",
-  "commit": "dd289dd",
-  "date": "2026-10-29 16:29"
+  "size": 8753688,
+  "sha256": "f072d5922df74b62593765dcc49093565340d9cdcd7b16f48c427b0d4b8eb58a",
+  "notes": "Mute with M, ping on the damage meter",
+  "commit": "19c48a8",
+  "date": "2026-10-29 16:36"
 }
