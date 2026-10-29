@@ -1,9 +1,9 @@
 {
-  "build": 3,
+  "build": 4,
   "engine": "4.7.2",
-  "size": 8746344,
-  "sha256": "b52f0471ee83af4c75590ae26eab7db76d086c0e371e3ed4dd59b31a02f7f62f",
-  "notes": "First friend build: cannonball throw, Swag and card tiers, Options and smoother bots",
-  "commit": "727069d",
-  "date": "2026-10-29 16:15"
+  "size": 8752264,
+  "sha256": "1d5846130a2acac4f41f7a5a4dfc132fded9ed0a3784b6f9d12f74bf20f318f5",
+  "notes": "Quit buttons, AI takes over players who leave, version check when joining, gentler Swag",
+  "commit": "dd289dd",
+  "date": "2026-10-29 16:29"
 }
