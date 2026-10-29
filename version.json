@@ -1,9 +1,9 @@
 {
-  "build": 5,
+  "build": 6,
   "engine": "4.7.2",
-  "size": 8753688,
-  "sha256": "f072d5922df74b62593765dcc49093565340d9cdcd7b16f48c427b0d4b8eb58a",
-  "notes": "Mute with M, ping on the damage meter",
-  "commit": "19c48a8",
-  "date": "2026-10-29 16:36"
+  "size": 8758108,
+  "sha256": "c740623ecd5eb7f21da831957d6df55d3a5e71d3f74e5e32ca5644f2ec8be7f1",
+  "notes": "Floating damage numbers (toggle in Options)",
+  "commit": "2b12091",
+  "date": "2026-10-29 16:48"
 }
