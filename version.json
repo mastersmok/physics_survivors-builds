@@ -1,9 +1,9 @@
 {
-  "build": 1,
+  "build": 2,
   "engine": "4.7.2",
   "size": 8705036,
-  "sha256": "cad005535bf2511056f1bf5fe1ebb376c0a1b40a59bc21f742bdcd9e31dedf8c",
-  "notes": "Test build for the updater",
+  "sha256": "542233d6a8c401bf6db0d60a50a29132b54416ecbd5cd60d9c7c13eefb9a5f81",
+  "notes": "Second test build",
   "commit": "637ad37",
-  "date": "2026-10-29 12:57"
+  "date": "2026-10-29 12:58"
 }
