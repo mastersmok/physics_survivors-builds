@@ -1,9 +1,9 @@
 {
-  "build": 6,
+  "build": 7,
   "engine": "4.7.2",
-  "size": 8758108,
-  "sha256": "c740623ecd5eb7f21da831957d6df55d3a5e71d3f74e5e32ca5644f2ec8be7f1",
-  "notes": "Floating damage numbers (toggle in Options)",
-  "commit": "2b12091",
-  "date": "2026-10-29 16:48"
+  "size": 8773508,
+  "sha256": "c4bde7badaa3940b75aa15d00e8c3b31be82cb4f21fee8d397d1d1999dc19e26",
+  "notes": "Lobby codes: Host private game / Join by code, no port forwarding; bots get unstuck",
+  "commit": "3c6057f",
+  "date": "2026-10-30 10:26"
 }
