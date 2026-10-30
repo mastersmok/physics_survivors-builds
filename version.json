@@ -1,9 +1,9 @@
 {
-  "build": 7,
+  "build": 8,
   "engine": "4.7.2",
-  "size": 8773508,
-  "sha256": "c4bde7badaa3940b75aa15d00e8c3b31be82cb4f21fee8d397d1d1999dc19e26",
-  "notes": "Lobby codes: Host private game / Join by code, no port forwarding; bots get unstuck",
-  "commit": "3c6057f",
-  "date": "2026-10-30 10:26"
+  "size": 9389512,
+  "sha256": "cf5d96533c9a1894c4d14854db5d0d987e002c30832fe5cbb0eeaafd4bfa2559",
+  "notes": "Heroes, new powers and items, Hero HQ meta progression, Lunar Base map",
+  "commit": "1b7eb24",
+  "date": "2026-10-30 12:56"
 }
